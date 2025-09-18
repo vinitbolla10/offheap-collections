@@ -1,0 +1,13 @@
+dontinline,*.*_all_jmhStub
+dontinline,*.*_avgt_jmhStub
+dontinline,*.*_sample_jmhStub
+dontinline,*.*_ss_jmhStub
+dontinline,*.*_thrpt_jmhStub
+inline,com/offheap/collections/benchmark/LargeDatasetBenchmark.benchmarkArrayListAdd
+inline,com/offheap/collections/benchmark/LargeDatasetBenchmark.benchmarkHashMapPut
+inline,com/offheap/collections/benchmark/LargeDatasetBenchmark.benchmarkHashSetAdd
+inline,com/offheap/collections/benchmark/LargeDatasetBenchmark.benchmarkOffHeapListAdd
+inline,com/offheap/collections/benchmark/LargeDatasetBenchmark.benchmarkOffHeapMapPut
+inline,com/offheap/collections/benchmark/LargeDatasetBenchmark.benchmarkOffHeapSetAdd
+inline,com/offheap/collections/benchmark/LargeDatasetBenchmark.setup
+inline,com/offheap/collections/benchmark/LargeDatasetBenchmark.tearDown
